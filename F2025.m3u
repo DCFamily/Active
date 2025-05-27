@@ -67,6 +67,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.peru15.com/images/regional/identidad-tv.png" group-title="NACIONAL",Identidad.TV
 https://stream.mediacorp.pe/srt/2/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NOTICIAS",Exitosa TV 
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
@@ -80,7 +82,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 http://138.99.179.229:8000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="NOTICIAS",Canal N 1.1
-http://177.53.155.236:8000/play/a09p/index.m3u8
+http://190.108.83.86:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS",RPP 
 http://138.99.179.229:8000/play/a0oj/index.m3u8
@@ -95,7 +97,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png" group-title="NOTICIAS",CNN ESPAÑOL
-http://177.53.155.236:8000/play/a0aj/index.m3u8
+http://172.93.102.112:8989/158621_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -123,6 +125,8 @@ http://181.48.150.203:8000/play/a0bu/index.m3u8
 https://sc1.wasidata.com/Bhtv/playlist.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="ANIMÉ+GEEK",Yu-Gi-Oh TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -133,10 +137,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="https://www.clipartmax.com/png/middle/121-1213709_inazuma-eleven-logo-inazuma-eleven-logo.png" group-title="ANIMÉ+GEEK",Inazuma Eleven TV
-https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",GOGO PLAY
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",MIX Bolivia
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/4aec381049020b69cf1b0286d82dae20.png" group-title="ANIMÉ+GEEK",ANIMASH
 http://179.1.147.210:5000/play/a04w
@@ -145,7 +152,7 @@ http://179.1.147.210:5000/play/a04w
 http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD+
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/4f4a8f38-3fc5-40f2-b944-24d873c3e009/3.m3u8
+https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/55e034a7-06f5-498f-9eb8-1eb59067ee5c/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
