@@ -57,7 +57,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://win.pe/img/win-tv/2025/channel/item-1.png" group-title="NACIONAL",Nativa HD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
-**https://www.ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="NACIONAL",Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
