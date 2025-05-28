@@ -118,14 +118,76 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV CABLE",Movistar Plus
 http://186.148.195.206:8000/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-id="Perú Mágico" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/oz7wor1604169998.png" group-title="TV CABLE",Perú Mágico
-http://181.48.150.203:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-id="Plus Life" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/oz7wor1604169998.png" group-title="TV CABLE",Plus Life
+http://38.43.133.242:8000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="TV CABLE",BHTV
 https://sc1.wasidata.com/Bhtv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="INTERNACIONAL",Telemundo Internacional 
+http://172.93.102.112:8989/158731_.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="INTERNACIONAL",Telemundo Internacional 2
+http://172.93.102.112:8989/158733_.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="INTERNACIONAL", Univision
+http://172.93.102.112:8989/158764_.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONAL",Las Estrellas
+http://38.7.101.90:8000/play/a1f4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="INTERNACIONAL,TelemaX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610306614900170757/-8C-D9tF_400x400.jpg" group-title="ANIMÉ+GEEK",Via X Esports
+http://190.93.229.22:8000/play/a0ig
+
+#EXTINF:-1,tvg-logo="https://senpaitv.com/wp-content/themes/tsunayoshi/assets/img/logosenpai2.png" group-title="ANIMÉ+GEEK",SENPAI TV
+http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="ANIMÉ+GEEK",ETC TV
+http://45.238.146.131:8008/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="ANIMÉ+GEEK",Bitme
+http://190.0.247.38:8000/play/a00h
+
+#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",GOGO PLAY
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",MIX Bolivia
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/4aec381049020b69cf1b0286d82dae20.png" group-title="ANIMÉ+GEEK",ANIMASH
+http://179.1.147.210:5000/play/a04w
+
+#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD+
+https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/55e034a7-06f5-498f-9eb8-1eb59067ee5c/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogocr.png" group-title="ANIMÉ+GEEK",Pandamax
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png" group-title="ANIMÉ+GEEK",Kanade TV
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIMÉ+GEEK",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3
+
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek Docu
+https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 1
+https://xui-backend.energeek.cl/live/22/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 2
+https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="ANIMÉ+GEEK",Yu-Gi-Oh TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -139,73 +201,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b
 #EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="https://www.clipartmax.com/png/middle/121-1213709_inazuma-eleven-logo-inazuma-eleven-logo.png" group-title="ANIMÉ+GEEK",Inazuma Eleven TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",GOGO PLAY
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",MIX Bolivia
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-
-#EXTINF:-1,tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/4aec381049020b69cf1b0286d82dae20.png" group-title="ANIMÉ+GEEK",ANIMASH
-http://179.1.147.210:5000/play/a04w
-
-#EXTINF:-1,tvg-logo="https://senpaitv.com/wp-content/themes/tsunayoshi/assets/img/logosenpai2.png" group-title="ANIMÉ+GEEK",SENPAI TV
-http://45.184.87.142:8000/play/a021
-
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD+
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/55e034a7-06f5-498f-9eb8-1eb59067ee5c/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogocr.png" group-title="ANIMÉ+GEEK",Pandamax
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="ANIMÉ+GEEK",ETC TV
-http://200.24.206.132:8000/play/a0bb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="ANIMÉ+GEEK",Bitme
-http://186.148.178.214:8090/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek R
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 1
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 1.1 
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek 2.1
-https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="ANIMÉ+GEEK",Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610306614900170757/-8C-D9tF_400x400.jpg" group-title="ANIMÉ+GEEK",Via X Esports
-http://200.24.206.132:8000/play/a0bh/index.m3u8
-
-#EXTINF:-1 "",group-title="ANIMÉ+GEEK",AdultSwim
-http://181.78.8.90:16123/play/ch75
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL",CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="INTERNACIONAL",Telemundo Internacional SD
-http://167.250.180.251:4000/play/a0hq/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="INTERNACIONAL", Univision
-http://161.132.108.74:50001/play/a02y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INTERNACIONAL",Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="INTERNACIONAL,TelemaX
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 
@@ -242,11 +241,14 @@ http://45.5.117.182:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="NATURALEZA",Animal Planet HD.2
 http://177.53.155.236:8000/play/a05p/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="CULTURA",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://usil.tv/uploads/images/logo_site_1673478162.png" group-title="CULTURA",USIL TV
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
+https://eu1.servers10.com:19360/8174/8174.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="CULTURA", Pluto TV Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
