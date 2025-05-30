@@ -298,31 +298,31 @@ http://177.93.41.134:4000/play/a0do/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV
-http://186.148.195.206:8000/play/a02h/index.m3u8
+http://181.209.114.13:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV 2
+http://38.7.101.90:8000/play/a0x1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="HOGAR Y ESTILO",TLC 
-http://177.53.155.236:8000/play/a07r/index.m3u8
+190.60.38.45:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD.1
-http://38.41.8.1:8000/play/a017
+http://38.43.133.242:8000/play/a0qz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD.2
-http://187.102.208.83:50000/play/a009/index.m3u8
+http://38.7.101.90:8000/play/a1e0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD.3
-http://200.60.124.19:29000/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD.2
+http://190.149.62.46:8004/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="HOGAR Y ESTILO",Lifetime.1
-http://177.53.155.236:8000/play/a02k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="HOGAR Y ESTILO",Lifetime.2
-http://186.148.195.206:8000/play/a02r/index.m3u8
+http://45.176.71.20:1689/play/a0lo
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="HOGAR Y ESTILO",E! Entertaiment
-http://186.148.195.206:8000/play/a04o/index.m3u8
+http://190.149.62.46:8004/play/a0pz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/large.gallery_1163_2_713.png.8a7233979728cc55a1fea34a9c12c56b.png" group-title="HOGAR Y ESTILO",Az Clic
-http://45.5.117.182:8000/play/a0ft/index.m3u8
+http://190.149.62.46:8004/play/a0l9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/72/06/a5/7206a55009e30f14c41e9a22c073ed4d.jpg" group-title="HOGAR Y ESTILO",Mas Chic HD
 http://186.148.195.206:8000/play/a01a/index.m3u8
