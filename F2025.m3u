@@ -17,7 +17,7 @@ https://video2.lhdserver.es/gamarrachannel/live.m3u8
 http://138.99.179.229:8000/play/a0ke/index.m3u8
 
 #EXTINF:-1 tvg-id="America TV HD" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="NACIONAL",America TV.2
-https://live-evg4.tv360.bitel.com.pe/iZZ3yvV0ky5ekmFgahgW0A/1748426301/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg4.tv360.bitel.com.pe/SGgBedq7gCDs6p4lRbZtYg/1754159352/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL",Panamericana TV.1
 http://190.238.172.153:8000/play/a0bp
@@ -54,6 +54,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunk
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="NACIONAL",LA TELE HD
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="_" group-title="NACIONAL",Viva TV
+http://177.53.155.236:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://win.pe/img/win-tv/2025/channel/item-1.png" group-title="NACIONAL",Nativa HD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
@@ -422,6 +425,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="JUNIOR",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 tvg-logo="_" group-title="JUNIOR",Peques TV
+https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/3942666/LINEStorePC/main.png" group-title="JUNIOR",Pinkfong TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -431,23 +437,29 @@ https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="JUNIOR", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="JUNIOR", Las Pistas de Blue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="JUNIOR", Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="JUNIOR",Nick Jr
-http://161.132.108.75:50001/play/a048/index.m3u8
+http://177.53.155.236:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="JUNIOR",Disney Junior
-http://161.132.108.73:50001/play/a00i/index.m3u8
+http://177.53.155.236:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="JUNIOR",Disney Junior 1.1
 http://161.132.108.75:50001/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="KIDS",Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="_" group-title="KIDS",Anima Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="_" group-title="KIDS",Creo Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="_" group-title="KIDS",FMH Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Canal_iPe.png/880px-Logo_Canal_iPe.png" group-title="KIDS",IPE
 http://161.132.108.75:50001/play/a02f/index.m3u8
