@@ -146,17 +146,21 @@ http://38.7.101.90:8000/play/a1f4/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="INTERNACIONAL,TelemaX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="_" group-title="INTERNACIONAL,Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610306614900170757/-8C-D9tF_400x400.jpg" group-title="ANIMÉ+GEEK",Via X Esports
 http://190.93.229.22:8000/play/a0ig
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610306614900170757/-8C-D9tF_400x400.jpg" group-title="ANIMÉ+GEEK",Via X Esports 
+http://181.224.226.128:5000/play/a041/index.m3u8
+
 #EXTINF:-1,tvg-logo="https://senpaitv.com/wp-content/themes/tsunayoshi/assets/img/logosenpai2.png" group-title="ANIMÉ+GEEK",SENPAI TV
 http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="ANIMÉ+GEEK",ETC TV
-http://45.238.146.131:8008/play/a074/index.m3u8
+(Blocked) http://45.238.146.131:8008/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="ANIMÉ+GEEK",Bitme
 http://190.0.247.38:8000/play/a00h
@@ -164,23 +168,27 @@ http://190.0.247.38:8000/play/a00h
 #EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",GOGO PLAY
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://www.futemax.events/wp-content/uploads/2023/07/gogo-150x150.jpg" group-title="ANIMÉ+GEEK",MIX Bolivia
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/4aec381049020b69cf1b0286d82dae20.png" group-title="ANIMÉ+GEEK",ANIMASH
-http://179.1.147.210:5000/play/a04w
+(Blocked) http://179.1.147.210:5000/play/a04w
 
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="ANIMÉ+GEEK",Anime Onegai HD+
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/55e034a7-06f5-498f-9eb8-1eb59067ee5c/3.m3u8
+https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/0edf19ef-107a-4e20-b70b-92311ecbb675/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogocr.png" group-title="ANIMÉ+GEEK",Pandamax
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 tvg-logo="_" group-title="ANIMÉ+GEEK",ZTV
+https://mitv.zplay.cl/Ztv/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="_" group-title="ANIMÉ+GEEK",AniRETRO
+https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png" group-title="ANIMÉ+GEEK",Kanade TV
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+https://static.kanade.cl/lista.m3u
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIMÉ+GEEK",Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek Docu
 https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
@@ -943,6 +951,9 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_08/large.1174890893_LogoNickMusic.png.7578792692a1f489c426da65b903d915.png" group-title="MUSICA",Nick Music SD
 http://200.41.79.165:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="_" group-title="MUSICA",Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png" group-title="MUSICA",MTV HD
 http://161.132.108.75:50001/play/a01s/index.m3u8
