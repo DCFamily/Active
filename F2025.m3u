@@ -552,7 +552,7 @@ http://104.238.222.251:8989/281187_.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1024x219.png" group-title="DEPORTES",SKY SPORT LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://38.199.4.160:93/play/a093
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20210507224924.png" group-title="DEPORTES",GolPeru HD
 http://177.53.155.236:8000/play/a0gb/index.m3u8
