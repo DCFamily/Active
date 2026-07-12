@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="NACIONAL",Latina.1
-http://138.99.179.229:8000/play/a0pb/index.m3u8
+http://8.243.126.131:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="NACIONAL",Latina.2
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
@@ -14,55 +14,55 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://video2.lhdserver.es/gamarrachannel/live.m3u8
 
 #EXTINF:-1 tvg-id="America TV HD" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="NACIONAL",America TV.1
-http://138.99.179.229:8000/play/a0ke/index.m3u8
+http://8.243.126.131:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="America TV HD" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="NACIONAL",America TV.2
 https://live-evg4.tv360.bitel.com.pe/SGgBedq7gCDs6p4lRbZtYg/1754159352/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL",Panamericana TV.1
-http://190.238.172.153:8000/play/a0bp
+http://8.243.126.131:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL",Panamericana TV.2
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL",TV Perú HD+
-http://138.99.179.229:8000/play/a0og/index.m3u8
-
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL",TV Perú HD
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+http://8.243.126.131:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL",TV Perú Noticias HD
+http://8.243.126.131:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL",ATV HD+
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL",ATV HD
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+http://8.243.126.131:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+2
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+http://8.243.126.131:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR 
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR.2 
-https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
+http://8.243.126.131:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="NACIONAL",Global HD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="NACIONAL",LA TELE HD
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+http://8.243.126.131:8000/play/a01v/index.m3u8
 
 #EXTINF:-1  tvg-logo="_" group-title="NACIONAL",Viva TV
 http://177.53.155.236:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://win.pe/img/win-tv/2025/channel/item-1.png" group-title="NACIONAL",Nativa HD
-https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="NACIONAL",Willax
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+http://8.243.126.131:8000/play/a01s/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://liketv.pe/wp-content/uploads/2024/12/Logo-con-Circulo-Naranja-Like-Tv.png" group-title="NACIONAL",Like.TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
@@ -78,7 +78,7 @@ https://live.obslivestream.com/conecta2/tracks-v1a1/playlist.m3u8
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NOTICIAS",Exitosa TV 1.1
-http://190.238.172.153:8000/play/a0c3
+http://8.243.126.131:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="NACIONAL",PBO.TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
@@ -90,10 +90,10 @@ http://138.99.179.229:8000/play/a0ld/index.m3u8
 http://190.108.83.86:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS",RPP 
-http://138.99.179.229:8000/play/a0oj/index.m3u8
+http://8.243.126.131:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS",RPP 1.1
-http://190.238.172.153:8000/play/a0ay
+http://8.243.126.131:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/619apfg5DDL.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -262,6 +262,9 @@ http://177.53.155.236:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="CULTURA",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="USMP TV" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="CULTURA",USMP TV.2
+http://8.243.126.131:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="USIL TV" tvg-logo="https://usil.tv/uploads/images/logo_site_1673478162.png" group-title="CULTURA",USIL TV
 https://eu1.servers10.com:19360/8174/8174.m3u8
