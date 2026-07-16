@@ -2,7 +2,8 @@
 http://8.243.126.131:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="NACIONAL",Latina.2
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/ead3acc9-e246-4e21-8b59-7c8c653bc11d:CBF2/variant/a2369c38af57cf3b2e7073d04299cf1a/bandwidth/3050740.m3u8
+
 
 #EXTINF:-1 tvg-id="TeleLima" tvg-logo="https://www.telelima.pe/logo.png" group-title="NACIONAL",TeleLima
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
@@ -31,23 +32,23 @@ http://8.243.126.131:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL",TV Perú Noticias HD
 http://8.243.126.131:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL",ATV HD+
-https://d19e55ehz2il4i.cloudfront.net/original.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL",ATV HD
 http://8.243.126.131:8000/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+
-https://d1svme839xkbsn.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL",ATV HD 2
+https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+
 http://8.243.126.131:8000/play/a04n/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR 
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL",ATV+ 2
+https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR.2 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR 
 http://8.243.126.131:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="NACIONAL",ATV SUR 2 
+https://dnhmqt6n0lkaq.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="NACIONAL",Global HD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
