@@ -91,7 +91,7 @@ http://138.99.179.229:8000/play/a0ld/index.m3u8
 http://190.108.83.86:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS",RPP 
-http://8.243.126.131:8000/play/a01u/index.m3u8
+https://cdn-origin.smartplay.pe/rpp/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS",RPP 1.1
 http://8.243.126.131:8000/play/a01u/index.m3u8
